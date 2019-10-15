@@ -9,6 +9,9 @@ project(lab4)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   std_msgs
+	sensor_msgs
+	tf
+	tf_conversions
 )
 
 ## System dependencies are found with CMake's conventions
