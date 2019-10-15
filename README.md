@@ -10,11 +10,11 @@ This lab consisted of a (basic) construction of the Navvis mobile sensing system
 
 To use the given Robot Configuration, visualize it in RViz and open the Joint State Publisher GUI, use:
 
-	**roslaunch lab4_nar50 display.launch**
+	roslaunch lab4_nar50 display.launch
 
 Without the GUI, use:
 
-	**roslaunch lab4_nar50 display.launch gui:=false**
+	roslaunch lab4_nar50 display.launch gui:=false
 
 
 *Notes*
