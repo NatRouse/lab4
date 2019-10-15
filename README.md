@@ -17,6 +17,3 @@ Without the GUI, use:
 	roslaunch lab4_nar50 display.launch gui:=false
 
 
-*Notes*
-
-The meshes for the Hokuyo lasers do not seem to be working. They are included in the "robot.xacro" file in the same way they were given in the lab documentation, but they do not seem to be rendering in RViz.
